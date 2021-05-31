@@ -25,6 +25,7 @@
         
           -Vous allez ensuite remplir les informations en entrant le même NAS.
         
-            -Si vous avez bien remplit les informations vous serez rediriger a votre tableau de bord ou vous pouvez renouvler votre permis ainsi que de faire une demande de permis              pour votre enfant.
+            -Si vous avez bien remplit les informations vous serez rediriger a votre tableau de bord ou vous pouvez renouvler votre permis ainsi que de faire une demande de permis
+               pour votre enfant.
    
   
