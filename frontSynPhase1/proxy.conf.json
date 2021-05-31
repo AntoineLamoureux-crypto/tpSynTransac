@@ -1,0 +1,20 @@
+{
+  "/server": {
+    "target": "http://localhost:9090",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/server": ""
+    }
+  },
+  "/server2": {
+    "target": "http://localhost:9292",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/server2": ""
+    }
+  }
+}
